@@ -1,0 +1,9 @@
+<manifest>
+  <remote fetch="ssh://review.tizen.org" name="tizen-gerrit" review="https://review.tizen.org/gerrit"/>
+  <default remote="tizen-gerrit"/>
+<project name="platform/core/api/connection" path="platform/core/api/connection" revision="tizen"/>
+<project name="framework/telephony/libslp-tapi" path="framework/telephony/libslp-tapi" revision="2.0alpha"/>
+<project name="framework/system/smartcard-plugin-nfc" path="framework/system/smartcard-plugin-nfc" revision="2.0alpha"/>
+<project name="framework/system/smartcard-plugin-uicc" path="framework/system/smartcard-plugin-uicc" revision="2.0alpha"/>
+<project name="framework/system/smartcard-service" path="framework/system/smartcard-service" revision="2.0alpha"/>
+</manifest>
