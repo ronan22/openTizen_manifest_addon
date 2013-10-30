@@ -6,4 +6,5 @@
 <project name="framework/system/smartcard-plugin-nfc" path="framework/system/smartcard-plugin-nfc" revision="2.0alpha"/>
 <project name="framework/system/smartcard-plugin-uicc" path="framework/system/smartcard-plugin-uicc" revision="2.0alpha"/>
 <project name="framework/system/smartcard-service" path="framework/system/smartcard-service" revision="2.0alpha"/>
+<project name="platform/upstream/elementary" path="platform/upstream/elementary" revision="submit/tizen/20130910.210220"/>
 </manifest>
