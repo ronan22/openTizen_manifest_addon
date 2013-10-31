@@ -1,0 +1,3 @@
+rpm python-rpm
+libxml2 python-libxml2
+dbus libdbus dbus-x11
