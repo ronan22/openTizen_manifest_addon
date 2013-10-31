@@ -1,0 +1,5 @@
+<manifest>
+  <remote fetch="ssh://review.tizen.org" name="tizen-gerrit" review="https://review.tizen.org/gerrit"/>
+  <default remote="https://github.com"/>
+<project name="gettext" path="ronan22/OpenTizen-gettext.git" revision="opentizen"/>
+</manifest>
